@@ -19,3 +19,12 @@ pip install -r requirements.txt
 
 Run project:
 python smart_energy_consumption_prediction.py
+
+
+## Dataset
+The dataset used is the UCI Household Power Consumption dataset.
+Download it and place inside a folder named `data/` before running the project.
+
+## Output
+The model predicts future 24-hour household energy consumption using deep learning time-series forecasting.
+
